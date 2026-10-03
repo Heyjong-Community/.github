@@ -50,8 +50,8 @@ Siapa jongers yang terlibat:
 | Nama                  | Role                 | GitHub                                                       |
 | --------------------- | -------------------- | ------------------------------------------------------------ |
 | 👤 Mahdy Mubasyir     | Full-Stack Developer | [@mubasyir19](https://github.com/mubasyir19)                 |
-| 👤 Zahid Faqih A.R    | AI Engineer          | [@zafar2154](https://github.com/zafar2154)                   |
-| 👤 Rizal Adiyaksa A.M | AI Engineer          | [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)       |
+| 👤 Zahid Faqih A.R    | Full-Stack Developer | [@zafar2154](https://github.com/zafar2154)                   |
+| 👤 Rizal Adiyaksa A.M | Full-Stack Developer | [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)       |
 | 👤 Taqi Mundzir B.    | IoT Engineer         | [@namagwtaq](https://github.com/namagwtaq)                   |
 | 👤 Ridho Pratama      | AI Engineer          | [@pratamaridho](https://github.com/pratamaridho)             |
 

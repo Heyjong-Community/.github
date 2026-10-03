@@ -17,6 +17,7 @@ Project kami seputar:
 
 - 💻 Software development
 - 📊 Data & AI
+- 🤖 Internet of Things
 
 ---
 
@@ -46,11 +47,13 @@ Jika kamu ingin ikut berkontribusi:
 
 Siapa jongers yang terlibat:
 
-| Nama               | Role                 | GitHub                                           |
-| ------------------ | -------------------- | ------------------------------------------------ |
-| 👤 Mahdy Mubasyir  | Full-Stack Developer | [@mubasyir19](https://github.com/mubasyir19)     |
-| 👤 Zahid Faqih A.R | AI Engineer          | [@zafar2154](https://github.com/zafar2154)       |
-| 👤 Ridho Pratama   | AI Engineer          | [@pratamaridho](https://github.com/pratamaridho) |
+| Nama                  | Role                 | GitHub                                                       |
+| --------------------- | -------------------- | ------------------------------------------------------------ |
+| 👤 Mahdy Mubasyir     | Full-Stack Developer | [@mubasyir19](https://github.com/mubasyir19)                 |
+| 👤 Zahid Faqih A.R    | AI Engineer          | [@zafar2154](https://github.com/zafar2154)                   |
+| 👤 Rizal Adiyaksa A.M | AI Engineer          | [@RizalAdiyaksaAM](https://github.com/RizalAdiyaksaAM)       |
+| 👤 Taqi Mundzir B.    | IoT Engineer         | [@namagwtaq](https://github.com/namagwtaq)                   |
+| 👤 Ridho Pratama      | AI Engineer          | [@pratamaridho](https://github.com/pratamaridho)             |
 
 ---
 
